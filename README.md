@@ -16,4 +16,8 @@
 - Model Link: [Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1)
 - Description: Mistral-7B-v0.1 is a pretrained generative text model boasting 7 billion parameters. Outperforming Llama 2 13B on all tested benchmarks, it adopts a transformer architecture with innovative features such as Grouped-Query Attention, Sliding-Window Attention, and a Byte-fallback BPE tokenizer.
 
-Feel free to explore the datasets and Mistral-7B-v0.1 model to gain insights into the fine-tuning process on diverse instruction-based datasets and the model's architecture choices.
+### Mistral-7B-Instruct-v0.2
+- Model Link: [Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
+- Description: The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an improved instruct fine-tuned version of Mistral-7B-Instruct-v0.1.
+
+Feel free to explore the datasets and the models to gain insights into the fine-tuning process on diverse instruction-based datasets and the model's architecture choices.
